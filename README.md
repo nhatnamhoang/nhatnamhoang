@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi , I'm Le Nam.
+I'm a Flutter developer from Vietnam, based in Ho Chi Minh city.
 
-<!--
-**nhatnamhoang/nhatnamhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working at [Gumi VN](https://gumiviet.com/vi/trang-chu/)
 
-Here are some ideas to get you started:
+💬 Ask me about anything related to Flutter application
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nam-hoang-mobile-developer/)
+
+Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatnamhoang&layout=compact)](https://github.com/nhatnamhoang)
+
