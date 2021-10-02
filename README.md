@@ -2,7 +2,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 I'm a Flutter developer from Vietnam, based in Ho Chi Minh city.
 
-🔭 I’m currently working at [Gumi VN](https://gumiviet.com/vi/trang-chu/)
+🔭 I’m currently working at [Agile Lab Pte Ltd](https://agilelab.sg/)
 
 💬 Ask me about anything related to Flutter application
 
